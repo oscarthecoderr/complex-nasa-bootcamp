@@ -2,7 +2,8 @@
 
 ### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
 
-### How to submit your code for review:
+<img width="1021" alt="Screen Shot 2022-10-29 at 2 19 54 AM" src="https://user-images.githubusercontent.com/113155959/198817110-a4cc7980-151f-499d-ba49-fbad4462a543.png">
+
 
 - Fork and clone this repo
 - Create a new branch called answer
